@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/nadam/esp/v5.2.1/workspace/HAYYYAAA/build/CMakeFiles/bootloader
+C:/Users/nadam/esp/v5.2.1/workspace/HAYYYAAA/build/CMakeFiles/bootloader.rule
+C:/Users/nadam/esp/v5.2.1/workspace/HAYYYAAA/build/CMakeFiles/bootloader-complete.rule
+C:/Users/nadam/esp/v5.2.1/workspace/HAYYYAAA/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/nadam/esp/v5.2.1/workspace/HAYYYAAA/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/nadam/esp/v5.2.1/workspace/HAYYYAAA/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/nadam/esp/v5.2.1/workspace/HAYYYAAA/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/nadam/esp/v5.2.1/workspace/HAYYYAAA/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/nadam/esp/v5.2.1/workspace/HAYYYAAA/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/nadam/esp/v5.2.1/workspace/HAYYYAAA/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

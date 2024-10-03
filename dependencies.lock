@@ -1,0 +1,15 @@
+dependencies:
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.1
+  protocol_examples_common:
+    component_hash: null
+    source:
+      path: C:\Users\nadam\esp\v5.2.1\esp-idf\examples\common_components\protocol_examples_common
+      type: local
+    version: '*'
+manifest_hash: 07c3c0f3754fd8682856ba19030381097b71d9dc935d21d5a902aa20724a1d59
+target: esp32
+version: 1.0.0
